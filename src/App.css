@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+/* body, html {
+  height: 300%;
+} */
+body  {
+  background-image: url("https://t4.ftcdn.net/jpg/03/11/59/83/360_F_311598304_fdudXPNJgsUMybT1UAEwjHslW3LBq91L.jpg");
+  /* height: 100vh; */
+ 
+
+  background-position:"fixed";
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.click:hover{
+  cursor: pointer;
+  transition-duration: 0.5s;
+
+}
